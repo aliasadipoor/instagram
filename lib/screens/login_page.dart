@@ -133,7 +133,7 @@ class _LoginPageState extends State<LoginPage> {
                         borderRadius: BorderRadius.all(Radius.circular(15)),
                         borderSide: BorderSide(
                           color: Color(0xffC5C5C5),
-                          width: 3.0,
+                          width: 3.0, 
                         ),
                       ),
                       focusedBorder: OutlineInputBorder(
