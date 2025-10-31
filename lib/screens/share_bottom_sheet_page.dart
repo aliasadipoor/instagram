@@ -133,7 +133,7 @@ class ShareBottomSheetPage extends StatelessWidget {
           height: 10,
         ),
         Text(
-          'AmirahmadAdibi',
+          'aliasadipoor',
           textAlign: TextAlign.center,
           style: TextStyle(fontFamily: 'GB', fontSize: 12, color: Colors.white),
         )

@@ -189,7 +189,7 @@ class UserProfilePage extends StatelessWidget {
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   Text(
-                    'امیراحمدادیبی',
+                    'علی اسدی پور',
                     style: TextStyle(
                         color: Colors.white, fontFamily: 'SM', fontSize: 14),
                   ),
@@ -197,7 +197,7 @@ class UserProfilePage extends StatelessWidget {
                     height: 5,
                   ),
                   Text(
-                    'amriahmadadibi',
+                    'ali__asadipoor',
                     style: TextStyle(
                         color: Color(0xffC5C5C5),
                         fontFamily: 'GB',
