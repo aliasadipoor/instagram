@@ -1,6 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:instagram/screens/activity_page.dart';
+import 'package:instagram/screens/home_page.dart';
+import 'package:instagram/screens/main_screen.dart';
+import 'package:instagram/screens/search_page.dart';
 import 'package:instagram/screens/splash_screen_page.dart';
 import 'package:instagram/screens/switch_account_page.dart';
+import 'package:instagram/screens/user_profile_page.dart';
 
 void main() {
   runApp(const Application());
@@ -32,7 +37,7 @@ class Application extends StatelessWidget {
       ),
 
       debugShowCheckedModeBanner: false,
-      home: const SwitchAccountPage(),
+      home: MainScreen(),
     );
   }
 }
